@@ -1,9 +1,26 @@
+h3{
+    color: red;
+}
+
+input {
+    width: 50%;
+    margin: 1vw;
+    height: 2vw;
+}
+
+label{
+    width: 10vw;
+    padding: 1.2vw;
+}
+
+.inputBox{
+    display: flex;
+}
+
+.checkbox_div{
+    margin: 1vw;
+    display: flex;
+    background-color: lightgray;
+}
 
 
-
-  input{
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-  }
