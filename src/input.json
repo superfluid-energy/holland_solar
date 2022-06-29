@@ -1,0 +1,37 @@
+{ "Objectgegevens":{
+ "Naam/opdrachtgever":"",
+  "Adres pv-installatie":"",
+  "Postcode":"",
+  "Plaats":"",
+  "Indien geen adres kadastraal nummers of coordinaten":"",
+  "Telefoon1 ":"",
+  "ContactPersoon":"",
+  "Telefoon2":"",
+  "E-mail":"",
+  "Datum oplevering":"",
+  "Type installatie": ["Nieuw","Uitbreiding"],
+  "Stroomstelsel": ["TT","TN"],
+  "Netspanning": ""
+}
+,
+"Uitgangspunten":{
+    "Is er een bliksemafleidihg aanwezig":"ja/nee",
+    "Zijn alle componenten bereikbaar voor het uitvoeren van onderhoud?":"ja/nee",
+    "Is er een noodstroomvoorziening of opslag aanwezig?":"ja/nee",
+    "Is het systeem aan het net gekoppeld?":"ja/nee"
+}
+,
+"Typologie van het systeem":{
+    "Bouwvorm":["Schuin dak","Indak(BIPV)","Plat dak","Veldopstelling"],
+    "Bouwvorm2":["String/centraal omvormer","Optimizers met omvormers","Micro-omvormers"],
+    "Type panelen":"",
+    "Aantal panelen":"99",
+    "Wp vermogen per paneel":"99",
+    "Aantal omvormers":"",
+    "Totaal vermogen omvormers":"xx kW",
+    "Totaal vermogen pv-panelen":"xx kWp"
+    
+}
+
+
+}
